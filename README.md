@@ -35,6 +35,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me nozimbek6603@gmail.com
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=azizbekrakhimjonov&show_icons=true&locale=en&theme=tokyonight" alt="Nozimjon Bozorov" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Nozimbek6603&show_icons=true&locale=en&theme=tokyonight" alt="Nozimjon Bozorov" /></p>
 
 
