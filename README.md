@@ -1,4 +1,6 @@
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=Nozimbek6603&label=Profile%20views&color=0e75b6&style=flat" alt="Nozimbek6603" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=Nozimbek6603&label=Profile%20views&color=0e75b6&style=flat" alt="Nozimbek6603" />
+<img src="https://img.shields.io/github/followers/Nozimbek6603?style=social">&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100"/>
 </p>
@@ -12,7 +14,7 @@
 <br>
 <p align='center'>
 <img src="https://komarev.com/ghpvc/?username=Nozimbek6603">&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://img.shields.io/github/followers/Nozimbek6603?style=social">&nbsp;&nbsp;&nbsp;&nbsp;
+
 </p>
 <br>
 
