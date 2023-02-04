@@ -12,12 +12,6 @@
 <img src="https://media.giphy.com/media/QvpqTCiEcwtvx6wwJK/giphy.gif" width="270" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
 <hr>
 <br>
-<p align='center'>
-<img src="https://komarev.com/ghpvc/?username=Nozimbek6603">&nbsp;&nbsp;&nbsp;&nbsp;
-
-</p>
-<br>
-
 
 - 🔭 I’m currently working on Python Development
 
