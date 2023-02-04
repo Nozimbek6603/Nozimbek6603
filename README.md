@@ -1,27 +1,20 @@
-
-
-
-
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=Nozimbek6603&label=Profile%20views&color=0e75b6&style=flat" alt="Nozimbek6603" /> </p>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=90"/>
 </p>
-<h1><h1 align="center">Hi 👋, I'm Nozimjon Bozorov</h1><h3 align="center">A Python Developer from Uzbekistan</h3> <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 40> </h1>
+<h1><h1 align="center">Hi 👋, I'm Nozimjon Bozorov</h1><h3 align="center">A Python Developer from Uzbekistan</h3></h1>
 <p align='center'>
-<img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&center=true&vCenter=true&width=433&height=75&lines=I'm+Chinmay+Sonawane;Computer+Engineering+Student;Cooking+Projects;%40chinmay29hub">
+<img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&center=true&vCenter=true&width=433&height=75&lines=I'm+Nozimjon+Bozorov;Python+Developer;+Mak+Projects;%Nozimbek6603">
 </p>
 <p align='center'>
 <img src="https://media.giphy.com/media/QvpqTCiEcwtvx6wwJK/giphy.gif" width="270" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
 <hr>
 <br>
 <p align='center'>
-<img src="https://komarev.com/ghpvc/?username=chinmay29hub">&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://img.shields.io/github/followers/chinmay29hub?style=social">&nbsp;&nbsp;&nbsp;&nbsp;
-<!-- <img src="https://visitor-badge.glitch.me/badge?page_id=chinmay29hub.visitor-badge"> -->
+<img src="https://komarev.com/ghpvc/?username=Nozimbek6603">&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://img.shields.io/github/followers/Nozimbek6603?style=social">&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 <br>
-
-
 
 
 - 🔭 I’m currently working on Python Development
