@@ -18,7 +18,7 @@
 
 - 👯 I’m looking to collaborate on Python
 
-- 💬 Ask me about Python, Java, Dart, Flutter
+- 💬 Ask me about Python, Dart, Flutter
 
 - 📫 How to reach me nozimbek6603@gmail.com
 
