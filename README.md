@@ -8,7 +8,7 @@
 </p>
 <h1>
   <h1 align="center">
-    Hi 👋, I'm Nozimjon Bozorov
+    Hi 👋, I'm Nozimjon Bozorov | NB
   </h1>
   <h3 align="center">
     A Python Developer from Uzbekistan
